@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Editor configuration
+.vscode/
+*.suo
+*.user
+*.log
+
+# Node modules (if used)
+node_modules/
